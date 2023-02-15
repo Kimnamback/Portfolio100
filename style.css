@@ -1,0 +1,78 @@
+#clock{
+    position: absolute; left: 480px; top: 150px;
+    font-size: 130px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#login-form{
+    position: absolute; left: 580; top:100px;
+}
+#login{
+    width: 300;
+    height: 30;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: transparent;
+    font-size:x-large;
+}
+#loginbtn{
+    width: 50;
+    height: 25;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    background-color: black;
+
+}
+#greeting {
+    position: absolute; left: 80px; top: 80px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#weather{
+    position: absolute; left: 1300px; top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+#todo-form{
+    position: absolute; left: 600px; top: 500px;
+    color: black;
+}
+
+
+#todo-list{
+    position: absolute; left: 600px; top: 550px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#quote{
+    position: absolute; left: 1100px; top: 665px;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    margin-left : 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+}
+#input{
+    color: black;
+    background-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    
+    font-size:x-large;
+    outline: none;
+                
+    border-top-style: hidden; 
+    border-left-style: hidden; 
+    border-right-style: hidden;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+                
+}
+
+.hidden {
+    display: none;
+}
+
